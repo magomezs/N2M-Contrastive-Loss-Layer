@@ -8,7 +8,7 @@ This layer can be joined to other Caffe layers to train Siamese Neural Networks.
 
 
 # Citation:
-Please cite CPM in your publications if it helps your research:
+Please cite N2MCLoss in your publications if it helps your research:
 
 Gómez-Silva, M. J., Armingol, J. M., & de la Escalera, A. (2017). Deep Part Features Learning by a Normalised Double-Margin-Based Contrastive Loss Function for Person Re-Identification. In VISIGRAPP (6: VISAPP) (pp. 277-285).
 
